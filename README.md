@@ -86,8 +86,28 @@ Organizar meus estudos em **Redes de Computadores**, focando em fundamentos, pr�
 - Packet Tracer  
 - Configuração de VLANs  
 - Testes com `ping`  
-- Configuração manual de IP  
+- Configuração manual de IP
 
+---
+
+## 🧪 Ferramentas de Estudo
+
+Durante meus estudos em redes, utilizo as seguintes ferramentas:
+
+- Cisco Packet Tracer  
+  🔗 https://www.netacad.com/
+
+- GNS3  
+  🔗 https://www.gns3.com/
+
+- EVE-NG  
+  🔗 https://www.eve-ng.net/
+
+- Wireshark  
+  🔗 https://www.wireshark.org/
+
+- VirtualBox  
+  🔗 https://www.virtualbox.org/
 ---
 
 ## 💻 Comandos Úteis
