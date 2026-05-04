@@ -71,19 +71,6 @@ Simulações no Packet Tracer
 Configuração de VLANs
 Testes de conectividade (ping)
 Configuração de IP manual
-🎯 Objetivo Profissional
-
-Me tornar um Engenheiro de Redes, com conhecimento em:
-
-Infraestrutura de redes
-Cloud Networking
-Segurança de redes
-📈 Próximos Passos
-Estudar Subnetting (importante 🔥)
-Aprender roteamento (RIP, OSPF)
-Certificação (ex: CCNA)
-Redes na nuvem (Azure, AWS)
-📝 Observações
 
 Este repositório será atualizado conforme avanço nos estudos.
 
