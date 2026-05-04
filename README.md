@@ -101,7 +101,7 @@ netstat
 
 ---
 
-##🐧 Linux
+###🐧 Linux
 
 ifconfig
 ip
