@@ -89,4 +89,4 @@ Este repositório será atualizado conforme avanço nos estudos.
 
 👨‍💻 Autor
 
-Jonathan
+Jonathan Rodrigues
