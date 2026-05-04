@@ -94,8 +94,18 @@ Organizar meus estudos em **Redes de Computadores**, focando em fundamentos, pr�
 
 ### 🪟 Windows
 
-```bash
 ipconfig
 ping
 tracert
 netstat
+
+---
+
+##🐧 Linux
+
+ifconfig
+ip
+ping
+traceroute
+netstat
+
