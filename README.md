@@ -99,7 +99,7 @@ Organizar meus estudos em **Redes de Computadores**, focando em fundamentos, pr�
 - tracert
 - netstat
 
-###🐧 Linux
+### 🐧 Linux
 
 - ifconfig
 - ip
