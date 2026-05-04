@@ -99,8 +99,6 @@ ping
 tracert
 netstat
 
----
-
 ###🐧 Linux
 
 ifconfig
