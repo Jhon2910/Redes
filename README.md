@@ -94,16 +94,16 @@ Organizar meus estudos em **Redes de Computadores**, focando em fundamentos, pr�
 
 ### 🪟 Windows
 
-ipconfig
-ping
-tracert
-netstat
+- ipconfig
+- ping
+- tracert
+- netstat
 
 ###🐧 Linux
 
-ifconfig
-ip
-ping
-traceroute
-netstat
+- ifconfig
+- ip
+- ping
+- traceroute
+- netstat
 
