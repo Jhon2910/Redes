@@ -1,7 +1,7 @@
 🌐 README - Estudos de Redes de Computadores
 📚 Objetivo
 
-Este repositório tem como objetivo organizar meus estudos em Redes de Computadores, com foco em fundamentos, prática e preparação para atuar como Network Engineer.
+Este repositório tem como objetivo organizar meus estudos em Redes de Computadores, com foco em fundamentos e prática.
 
 🧠 Conteúdos Estudados
 🔹 Fundamentos de Redes
