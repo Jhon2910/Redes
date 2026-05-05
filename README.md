@@ -109,8 +109,9 @@ Durante meus estudos em redes, utilizo as seguintes ferramentas:
 - VirtualBox  
   🔗 https://www.virtualbox.org/
 
-- TrafficMonitor
+- TrafficMonitor  
   🔗 https://trafficmonitor.org/
+  
 ---
 
 ## 💻 Comandos Úteis
